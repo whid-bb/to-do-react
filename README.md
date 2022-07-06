@@ -26,6 +26,7 @@ You can install Node and NPM at https://nodejs.org and follow the instructions p
 👤 **whid-bb**
 
 - [LinkedIn](https://www.linkedin.com/in/bartosz-ka%C5%BAmierczak-46a810235/)
+- [Twitter](https://twitter.com/s50_whid)
 
 ## 🤝 Contributing
 
